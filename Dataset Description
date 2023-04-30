@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/ashydv/advertising-dataset
+Here we have taken advertising.csv dataset from kaggle
+Using this advertising dataset given in ISLR, we are analysing the relationship between 'TV advertising' and 'sales' using a simple linear regression model.
